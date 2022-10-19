@@ -2,7 +2,7 @@ import React from 'react'
 import Header from '../components/Header.js';
 import Module from '../components/Module.js';
 
-function Academics() {
+const Academics = () => {
   return (
     <>
     <Header/>
